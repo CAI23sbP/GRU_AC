@@ -15,6 +15,6 @@ stable_baselines3: 2.3.0
 
 sb3_contrib: 2.3.0
 
-## sister GRU project ##
+## My sister project (related to GRU) ##
 
 https://github.com/CAI23sbP/RecurrentRLHF
