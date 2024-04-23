@@ -17,6 +17,6 @@ sb3_contrib: 2.3.0
 
 ## My sister project (related to GRU) ##
 
-preference based RL with ```GRU reward model``` in imitation library 
+preference based RL with ```GRU reward model``` for imitation library 
 
 https://github.com/CAI23sbP/RecurrentRLHF
