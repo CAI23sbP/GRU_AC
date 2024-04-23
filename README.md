@@ -4,7 +4,7 @@
 
 ```python3 train.py```
 
-After traning done, ```LSTM PPO``` vs ```GRU PPO``` vs ```PPO``` results are saved by video 
+After traning done, ```LSTM PPO``` vs ```GRU PPO``` vs ```PPO``` results are saved as videos
 
 
 ## library compatibility ##
