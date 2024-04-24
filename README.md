@@ -8,6 +8,12 @@ After traning done, ```LSTM PPO``` vs ```GRU PPO``` vs ```PPO``` results are sav
 
 ## results in BipedalWalker-v3 env ## 
 
+[Note] 
+
+all paramters are same, except which has recurrent neural network or not.
+
+LSTM and GRU has same hidden_state shape.  
+
 1. LSTM PPO
 
 
