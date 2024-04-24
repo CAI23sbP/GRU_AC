@@ -6,6 +6,29 @@
 
 After traning done, ```LSTM PPO``` vs ```GRU PPO``` vs ```PPO``` results are saved as videos
 
+## results in BipedalWalker-v3 env ## 
+
+1. LSTM PPO
+
+
+https://github.com/CAI23sbP/GRU_AC/assets/108871750/f745d869-95d8-4820-93a0-d0262929eeeb
+
+
+
+2. GRU PPO
+
+
+https://github.com/CAI23sbP/GRU_AC/assets/108871750/314daa09-a23f-4b53-8c13-0c61f2ec8286
+
+
+
+3. PPO 
+
+
+
+https://github.com/CAI23sbP/GRU_AC/assets/108871750/70981b3e-be7d-4de7-85f7-e7ae22f04a76
+
+
 
 ## library compatibility ##
  
